@@ -1,5 +1,5 @@
 # Hello there! 👋
-
+![hello_there](https://github.com/doctortellini/doctortellini/assets/12393031/e1cf3eb3-873c-4789-b6bd-cb8c6244c53f)
 ## About me
 My name is Aitor. I'm a proud madrileño, but I currently call Valencia (Spain) my home. After several years of dedicating research to submit my Ph.D thesis, I've made a leap into the software industry, and haven't looked back since. The experience and skills I gained during those years in academia have greatly influenced my approach to coding, emphasizing precision, attention to detail and, specially, a love for continuous learning.
 
