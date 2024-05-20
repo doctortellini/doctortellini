@@ -10,8 +10,8 @@ This repository is my playground for sharing my projects, experiments, and insig
 Join me on this journey of discovery and growth as a developer! If you have any questions, suggestions, or just want to chat about exciting projects, don't hesitate to reach out.
 
 ## Contact 📫 
-- Email: [aitor.lopez.hernandez@email.com]
-- LinkedIn: [https://www.linkedin.com/in/ailoher/]
+- Email: aitor.lopez.hernandez@email.com
+- LinkedIn: https://www.linkedin.com/in/ailoher/
 
 I hope you find something inspiring and useful here! Thanks for visiting my repository!
 
